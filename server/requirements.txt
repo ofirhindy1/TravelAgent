@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain
+langchain-anthropic
+langgraph
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
+psycopg2-binary
+pytest

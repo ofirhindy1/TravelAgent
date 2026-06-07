@@ -1,0 +1,5 @@
+export const APP_TITLE    = 'AI Travel Agent'
+export const APP_SUBTITLE = ''
+export const APP_ICON     = '✈'
+export const NEW_CHAT_LABEL = '+ New Chat'
+export const NEW_CHAT_ARIA  = 'Start a new conversation'
